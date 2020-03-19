@@ -1,0 +1,39 @@
+.redbox
+{
+	float: left;
+	background-color: #FF0000
+	
+	}
+
+.yellowbox
+{
+	float: left;
+	background-color: #FFFF00
+	
+	}
+
+.greenbox
+{
+	float: left;
+	background-color: #00FF00
+	
+	}
+
+/*div {
+  width: 320px;
+  padding: 10px;
+  border: 5px white;
+  margin: 0;
+}
+*/
+
+
+div{
+	padding: 5%;
+	color: white;
+	width:20%;
+	border:1000 px;
+	border-color: white;
+	margin: 5 px
+}
+
